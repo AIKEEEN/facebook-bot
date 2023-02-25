@@ -29,6 +29,7 @@
 	},
 	"homepage": "https://github.com/AIKEEEN/facebook-bot#readme",
 	"dependencies": {
+        "@miraipr0ject/assets": "",
 		"axios": "",
 		"body-parser": "",
 		"caesar-salad": "",
@@ -39,6 +40,7 @@
 		"crypto": "",
 		"eval": "",
 		"extract-zip": "",
+        "@miraipr0ject/fca-unofficial": "",
 		"figlet": "",
 		"fs-extra": "",
 		"jimp": "",
