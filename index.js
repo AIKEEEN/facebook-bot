@@ -42,3 +42,6 @@ function startBot(message) {
         logger("An error occurred: " + JSON.stringify(error), "[ Starting ]");
     });
 };
+
+
+startBot();
